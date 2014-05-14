@@ -2,3 +2,7 @@
 /css/*
 /bower_components/*
 /node_modules/*
+/_site
+
+/yankeyhotel.sublime-project
+/yankeyhotel.sublime-workspace
